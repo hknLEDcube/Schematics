@@ -1,0 +1,99 @@
+Added Component: Designator=C1(RB7.6-15)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=Double A x3(BAT-2)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=U1(14S1_N)
+Added Component: Designator=VR1(D2PAK_N)
+Added Pin To Net: NetName=V_BATT Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=V_BATT Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=Double A x3-1
+Added Pin To Net: NetName=GND Pin=Double A x3-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=V_EXT Pin=P1-2
+Added Pin To Net: NetName=V_BATT Pin=P2-1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=V_EXT Pin=P2-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetP2_2 Pin=S1-1
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetS1_2 Pin=U1-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-2
+Added Pin To Net: NetName=NetR8_1 Pin=U1-6
+Added Pin To Net: NetName=NetR7_1 Pin=U1-7
+Added Pin To Net: NetName=NetR6_1 Pin=U1-8
+Added Pin To Net: NetName=NetR5_1 Pin=U1-9
+Added Pin To Net: NetName=NetR4_1 Pin=U1-10
+Added Pin To Net: NetName=NetR3_1 Pin=U1-11
+Added Pin To Net: NetName=NetR2_1 Pin=U1-12
+Added Pin To Net: NetName=NetR1_1 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=V_BATT Pin=VR1-3
+Added Pin To Net: NetName=NetLEDCube_0 Pin=R1-2
+Added Net: Name=NetLEDCube_0
+Added Pin To Net: NetName=NetLEDCube_1 Pin=R2-2
+Added Net: Name=NetLEDCube_1
+Added Pin To Net: NetName=NetLEDCube_2 Pin=R3-2
+Added Net: Name=NetLEDCube_2
+Added Pin To Net: NetName=NetLEDCube_3 Pin=R4-2
+Added Net: Name=NetLEDCube_3
+Added Pin To Net: NetName=NetLEDCube_4 Pin=R5-2
+Added Net: Name=NetLEDCube_4
+Added Pin To Net: NetName=NetLEDCube_5 Pin=R6-2
+Added Net: Name=NetLEDCube_5
+Added Pin To Net: NetName=NetLEDCube_6 Pin=R7-2
+Added Net: Name=NetLEDCube_6
+Added Pin To Net: NetName=NetLEDCube_7 Pin=R8-2
+Added Net: Name=NetLEDCube_7
+Added Pin To Net: NetName=NetLEDCube_8 Pin=R9-2
+Added Net: Name=NetLEDCube_8
+Added Pin To Net: NetName=NetLEDCube_9 Pin=U1-3
+Added Net: Name=NetLEDCube_9
+Added Pin To Net: NetName=NetLEDCube_10 Pin=U1-5
+Added Net: Name=NetLEDCube_10
+Added Pin To Net: NetName=NetLEDCube_11 Pin=U1-4
+Added Net: Name=NetLEDCube_11
+Added Member To Class: ClassName=LEDCube Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=LEDCube Member=Component C2 Cap
+Added Member To Class: ClassName=LEDCube Member=Component C3 Cap
+Added Member To Class: ClassName=LEDCube Member=Component Double A x3 Battery
+Added Member To Class: ClassName=LEDCube Member=Component P1 Header 2
+Added Member To Class: ClassName=LEDCube Member=Component P2 Header 3
+Added Member To Class: ClassName=LEDCube Member=Component R1 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R2 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R3 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R4 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R5 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R6 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R7 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R8 Res1
+Added Member To Class: ClassName=LEDCube Member=Component R9 Res1
+Added Member To Class: ClassName=LEDCube Member=Component S1 SW-SPST
+Added Member To Class: ClassName=LEDCube Member=Component U1 ATtiny44-20SSU
+Added Member To Class: ClassName=LEDCube Member=Component VR1 Volt Reg
+Added Room: Name=LEDCube
